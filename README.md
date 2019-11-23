@@ -4,6 +4,7 @@ results of training SRCNN on a VAE output
 ## VAE 
 
 ![output](https://github.com/l3th4l/VAE-SRCNN/blob/master/gifs/ezgif-2-48c8fa9858c5.gif)
+
 *left* : Reconstructed Output , *right* : Ground Truth
 
 ### Latent Space Interpolation 
@@ -11,6 +12,7 @@ results of training SRCNN on a VAE output
 
 ### SRCNN on VAE output 
 ![srcnn](https://github.com/l3th4l/VAE-SRCNN/blob/master/gifs/ezgif-2-f32a39f57016.gif) 
+
 *left* : VAE Output , *right* : Result on applying SRCNN on VAE output 
 
 P.S. Didn't go quiet s expected. The results turned out to be more blurry than the VAE output but it eleminated some of the 
