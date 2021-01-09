@@ -1,5 +1,5 @@
 # VAE-SRCNN
-results of training SRCNN Image Super-Resolution network on a VAE's output
+Results of training SRCNN Image Super-Resolution network on a VAE's output.
 
 ## VAE 
 
